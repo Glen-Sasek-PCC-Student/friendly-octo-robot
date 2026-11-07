@@ -1,0 +1,17 @@
+Petroleum Engineering
+clear
+y
+Chemical Engineering
+65000
+y
+Nuclear Engineering
+c
+-10000
+75000
+y
+Computer Engineering
+115000
+y
+Computer Science
+120000
+n
